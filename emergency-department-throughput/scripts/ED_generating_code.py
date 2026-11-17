@@ -3,7 +3,7 @@ import numpy as np
 from pathlib import Path
 
 # ============================================================
-# CEDARBRIDGE GENERAL HOSPITAL (FICTIONAL)
+# CEDARBRIDGE HOSPITAL (FICTIONAL)
 # EMERGENCY DEPARTMENT RAW DATA GENERATOR
 #
 # Reporting period: 01 January - 31 October 2026
