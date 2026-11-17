@@ -4,7 +4,7 @@ An end-to-end analysis of 4,000 synthetic emergency department visits (January t
 
 > **All data is synthetic.** No real patients or hospitals. The patterns were built into the generator, so the findings demonstrate the method, not real hospital performance.
 
-**Dashboard:** The four-page report is available as [`powerbi/ed.pbix`](powerbi/ed.pbix). Dashboard screenshots and a PDF export have not yet been uploaded.
+**Dashboard:** [View the four-page report on my portfolio website](https://gideon-dataai.github.io/gideon-odeyemi-portfolio/projects/emergency-department-throughput/dashboard.html), or [open its PDF export](https://gideon-dataai.github.io/gideon-odeyemi-portfolio/projects/emergency-department-throughput/Cedarbridge_ED_Dashboard.pdf). The editable Power BI report is [`powerbi/ed.pbix`](powerbi/ed.pbix).
 
 ## Business questions
 
@@ -92,7 +92,7 @@ The cleaning decisions are summarised above. A separate cleaning-log file has no
 ```text
 Clinical-Operations-Data-Analysis/
 ├── README.md
-└── 01-emergency-department-throughput/
+└── emergency-department-throughput/
     ├── README.md
     ├── data/
     │   └── Cedarbridge_ED_Raw_Jan_Oct_2026.csv
@@ -104,7 +104,7 @@ Clinical-Operations-Data-Analysis/
         └── ed.pbix
 ```
 
-Dashboard screenshots, a PDF export and additional documentation will be added after verification.
+The PDF dashboard export is hosted on the portfolio website; separate dashboard screenshots and additional documentation may be added later.
 
 ## Reproduce it
 

@@ -6,21 +6,23 @@ This repository contains technical work and documentation for my clinical, healt
 
 ## Projects
 
+Projects are added as I develop new analyses; this list is not a fixed limit.
+
 ### Clinical & Healthcare Analytics
 
-| # | Project | Tools | Progress |
-|---|---|---|---|
-| 01 | [Emergency Department Throughput Analysis](01-emergency-department-throughput/) | Python, Excel, Power Query, Power BI | Dashboard built; documentation being finalised |
-| 02 | FHIR API Data Pipeline | SQL, Python | Planned |
-| 03 | HEDIS Quality & Risk Stratification | Python, Power BI | Planned |
-| 04 | Medical Billing & Revenue Cycle | Excel, SQL | Planned |
+| Project | Tools | Progress |
+|---|---|---|
+| [Emergency Department Throughput Analysis](emergency-department-throughput/) | Python, Excel, Power Query, Power BI | Dashboard built; documentation being finalised |
+| FHIR API Data Pipeline | SQL, Python | Planned |
+| HEDIS Quality & Risk Stratification | Python, Power BI | Planned |
+| Medical Billing & Revenue Cycle | Excel, SQL | Planned |
 
 ### Business & Operations Analytics
 
-| # | Project | Tools | Progress |
-|---|---|---|---|
-| 05 | B2B SaaS Churn & LTV Analysis | SQL, Python | Planned |
-| 06 | Dynamic Inventory & Supply Chain Analysis | SQL, Power BI | Planned |
+| Project | Tools | Progress |
+|---|---|---|
+| B2B SaaS Churn & LTV Analysis | SQL, Python | Planned |
+| Dynamic Inventory & Supply Chain Analysis | SQL, Power BI | Planned |
 
 ## How projects are documented
 
