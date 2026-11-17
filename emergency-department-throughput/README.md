@@ -1,4 +1,4 @@
-# Emergency Department Throughput Analysis — Cedarbridge General Hospital
+# Emergency Department Throughput Analysis — Cedarbridge Hospital
 
 An end-to-end analysis of 4,000 synthetic emergency department visits (January to October 2026). Python generates the dataset, Excel Power Query cleans it, Excel PivotTables explore it, and a four-page Power BI dashboard presents the findings.
 
