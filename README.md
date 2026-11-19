@@ -13,7 +13,7 @@ Projects are added as I develop new analyses; this list is not a fixed limit.
 | Project | Tools | Progress |
 |---|---|---|
 | [Emergency Department Throughput Analysis](emergency-department-throughput/) | Python, Excel, Power Query, Power BI | Dashboard built; documentation being finalised |
-| FHIR API Data Pipeline | SQL, Python | Planned |
+| [FHIR Healthcare Data Integration & Encounter Analytics](fhir-healthcare-data-analytics/) | Python, SQL, FHIR | In development: project definition and API discovery |
 | HEDIS Quality & Risk Stratification | Python, Power BI | Planned |
 | Medical Billing & Revenue Cycle | Excel, SQL | Planned |
 
